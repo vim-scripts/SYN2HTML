@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=640
+
+Yet Another Version of the 2html.vim script found in the $VIMRUNTIME/syntax directory.
+
+This version is written in python, making it far easier to do things like change the format of HTML created by the script (i.e. putting it in <div> tags instead of <html> tags).
+
+To use this script, your vim must be compiled with +python.
